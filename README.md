@@ -10,6 +10,10 @@
 </p>
 
 
+## Continuous [bag-of-words](https://en.wikipedia.org/wiki/Bag-of-words_model) (CBOW)
+
+## Skip-gram
+
 
 ##
 
