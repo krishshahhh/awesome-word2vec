@@ -12,6 +12,14 @@
 ---
 ---
 
+## 📖 Contents
+- [CBOW](#continuous-bag-of-words-cbow)
+- [Skip-gram](#skip-gram)
+- [My Other Awesome Lists](#my-other-awesome-lists)
+- [Contributing](#contributing)
+- [Contributors](#contributors)
+
+
 ## Continuous [bag-of-words](https://en.wikipedia.org/wiki/Bag-of-words_model) (CBOW)
 
 ```mermaid
